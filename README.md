@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **EthioExplore**
 
-- 👨‍💻 All of my projects are available at [eyuel-kassahun.vercel.app](eyuel-kassahun.vercel.app)
+- 👨‍💻 All of my projects are available at [eyuel-kassahun.vercel.app](https://eyuel-kassahun.vercel.app)
 
 - 📫 How to reach me **eyueljoel21@gmail.com**
 
